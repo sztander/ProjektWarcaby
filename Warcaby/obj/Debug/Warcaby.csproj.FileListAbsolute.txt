@@ -1,0 +1,2 @@
+C:\Users\Michal\Desktop\Warcaby\Warcaby\bin\Debug\Warcaby.exe.config
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\bin\Debug\Warcaby.exe.config

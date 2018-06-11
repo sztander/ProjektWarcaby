@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warcaby", "Warcaby\Warcaby.csproj", "{FB9C7718-245A-4DD8-9DD0-FC4F8143DDFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logika", "Logika\Logika.csproj", "{6659FB8D-F58C-4980-AE74-A0487CD60AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9C7718-245A-4DD8-9DD0-FC4F8143DDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9C7718-245A-4DD8-9DD0-FC4F8143DDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9C7718-245A-4DD8-9DD0-FC4F8143DDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9C7718-245A-4DD8-9DD0-FC4F8143DDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6659FB8D-F58C-4980-AE74-A0487CD60AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6659FB8D-F58C-4980-AE74-A0487CD60AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6659FB8D-F58C-4980-AE74-A0487CD60AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6659FB8D-F58C-4980-AE74-A0487CD60AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
