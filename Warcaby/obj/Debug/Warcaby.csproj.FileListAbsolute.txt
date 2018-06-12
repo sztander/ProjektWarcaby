@@ -1,7 +1,12 @@
 C:\Users\Michal\Desktop\Warcaby\Warcaby\bin\Debug\Warcaby.exe.config
 C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\bin\Debug\Warcaby.exe.config
-C:\Users\kamil\Source\Repos\ProjektWarcaby\Warcaby\bin\Debug\Warcaby.exe.config
-C:\Users\kamil\Source\Repos\ProjektWarcaby\Warcaby\obj\Debug\Warcaby.csprojResolveAssemblyReference.cache
-C:\Users\kamil\Source\Repos\ProjektWarcaby\Warcaby\obj\Debug\Warcaby.Form1.resources
-C:\Users\kamil\Source\Repos\ProjektWarcaby\Warcaby\obj\Debug\Warcaby.Properties.Resources.resources
-C:\Users\kamil\Source\Repos\ProjektWarcaby\Warcaby\obj\Debug\Warcaby.csproj.GenerateResource.Cache
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\obj\Debug\Warcaby.csprojResolveAssemblyReference.cache
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\obj\Debug\Warcaby.Form1.resources
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\obj\Debug\Warcaby.Properties.Resources.resources
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\obj\Debug\Warcaby.csproj.GenerateResource.Cache
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\bin\Debug\Warcaby.exe
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\bin\Debug\Warcaby.pdb
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\bin\Debug\Logika.dll
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\bin\Debug\Logika.pdb
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\obj\Debug\Warcaby.exe
+C:\Users\Michal\Desktop\Projekt\ProjektWarcaby\Warcaby\obj\Debug\Warcaby.pdb

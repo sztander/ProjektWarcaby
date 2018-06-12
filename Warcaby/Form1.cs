@@ -15,14 +15,6 @@ namespace Warcaby
         public Form1()
         {
             InitializeComponent();
-            label1.Parent = pictureBox1;
-            label1.BackColor = Color.Transparent;
-            label3.Parent = pictureBox1;
-            label3.BackColor = Color.Transparent;
-        }
-        private void label3_Click(object sender, EventArgs e)
-        {
-            
         }
     }
 }
