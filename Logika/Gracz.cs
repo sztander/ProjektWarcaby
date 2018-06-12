@@ -6,15 +6,26 @@ using System.Threading.Tasks;
 
 namespace Logika
 {
-    class Szachownica
+    class Gracz
     {
-        /// <summary>
-        /// 0 to nie ma nic, 1 to biale 2 to czarne
-        /// </summary>
         public int[,] tabela;
-        public void Start()
+        public bool tura;
+        public string nazwaGracza;
+        public string kolor;
+        public bool winner;
+        public Gracz(string kolorr)
         {
             tabela = new int[8, 8] { { 0, 1, 0, 1, 0, 1, 0, 1 }, { 1, 0, 1, 0, 1, 0, 1, 0 }, { 0, 1, 0, 1, 0, 1, 0, 1 }, { 0, 0, 0, 0, 0, 0, 0, 0 }, { 0, 0, 0, 0, 0, 0, 0, 0 }, { 2, 0, 2, 0, 2, 0, 2, 0 }, { 0, 2, 0, 2, 0, 2, 0, 2 }, { 2, 0, 2, 0, 2, 0, 2, 0 } };
+            if (kolorr == "Czarny")
+            {
+                kolor = kolorr;
+                tura = true;
+            }
+            else
+            {
+                kolor = "Bialy";
+                tura = false;
+            }
         }
     }
 }
